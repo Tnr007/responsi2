@@ -1,0 +1,6 @@
+D:\Kuliah\Matkul\Semester 2\Code\VS Code IDE\responsi\responsi\bin\Debug\responsi.exe.config
+D:\Kuliah\Matkul\Semester 2\Code\VS Code IDE\responsi\responsi\obj\Debug\responsi.csprojResolveAssemblyReference.cache
+D:\Kuliah\Matkul\Semester 2\Code\VS Code IDE\responsi\responsi\bin\Debug\responsi.exe
+D:\Kuliah\Matkul\Semester 2\Code\VS Code IDE\responsi\responsi\bin\Debug\responsi.pdb
+D:\Kuliah\Matkul\Semester 2\Code\VS Code IDE\responsi\responsi\obj\Debug\responsi.exe
+D:\Kuliah\Matkul\Semester 2\Code\VS Code IDE\responsi\responsi\obj\Debug\responsi.pdb
